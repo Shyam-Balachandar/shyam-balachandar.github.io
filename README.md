@@ -1,3 +1,3 @@
 # shyam-balachandar.github.io
 MSc Business Analytics student, ex-software dev, passion for turning data into decisions.
-I recently completed a business analytics project UrbanCart - Customer Support Process Improvement Case Study - View Project: (https://github.com/Shyam-Balachandar/UrbanCart---Customer-Support-Process-Improvement-Case-Study)
+I recently completed a business analytics project UrbanCart - UK Labour Market & Analyst Job Insights Dashboard (Power BI | 2018–2025 Data) - View Project: (https://github.com/Shyam-Balachandar/UK-Labour-Market-Analyst-Job-Insights-Dashboard-Power-BI-2018-2025-Data-)
